@@ -1,8 +1,8 @@
-# Hi there, I'm Juan Dela Cruz! 👋
+# Hi there, I'm Gab Tamayo! 👋
 
 ## About Me
 
-I am Juan Dela Cruz, a passionate coder with strong database management skills. I love diving into complex problems and creating elegant solutions. My tech journey began with the BS Information Technology program, and I've been on an exciting learning path ever since.
+I am Gab Tamayo, a passionate coder with strong database management skills. I love diving into complex problems and creating elegant solutions. My tech journey began with the BS Information Technology program, and I've been on an exciting learning path ever since.
 
 ## Education
 
@@ -25,8 +25,8 @@ I am Juan Dela Cruz, a passionate coder with strong database management skills. 
 
 ## Reach Me
 
-- LinkedIn: [LinkedIn Profile](LinkedIn_Profile_Link)
-- Email: juandelacruz@gmail.com
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/gabriel-tamayo-1872512a2/)
+- Email: gabotamayo41@gmail.com
 
 ## Icons
 
