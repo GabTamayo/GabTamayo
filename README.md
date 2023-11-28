@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am Gab Tamayo, a passionate coder with strong database management skills. I love diving into complex problems and creating elegant solutions. My tech journey began with the BS Information Technology program, and I've been on an exciting learning path ever since.
+I am Gabriel A. Tamayo, a passionate coder with strong database management skills. I love diving into complex problems and creating elegant solutions. My tech journey began with the BS Information Technology program, and I've been on an exciting learning path ever since.
 
 ## Education
 
