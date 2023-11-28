@@ -8,7 +8,7 @@ I am Gabriel A. Tamayo, a passionate coder with strong database management skill
 
 - **BS Information Technology**
   New Era University
-  *2021-Present*
+  *2022-Present*
 
 ## Certification
 
