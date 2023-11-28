@@ -25,7 +25,7 @@ I am Gabriel A. Tamayo, a passionate coder with strong database management skill
 
 ## Reach Me
 
-- LinkedIn: (https://www.linkedin.com/in/gabriel-tamayo-1872512a2/)
+- LinkedIn: [Gabriel Tamayo](https://www.linkedin.com/in/gabriel-tamayo-1872512a2/)
 - Email: gabotamayo41@gmail.com
 
 ## Icons
