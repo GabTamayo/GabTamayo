@@ -19,7 +19,7 @@ I am Gabriel A. Tamayo, a passionate coder with strong database management skill
 
 ## Skill sets:
 
-- **Programming**: Java, JavaScript
+- **Programming**: Java, JavaScript, Python, Kotlin
 - **Databases**: IBM DB2 Cloud
 - **Tools**: Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
