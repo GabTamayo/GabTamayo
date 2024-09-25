@@ -17,6 +17,7 @@ I am Gabriel A. Tamayo, a passionate coder with strong database management skill
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=426943C5A82B7944103F4FCAFF3CAF5BDF1D53FDBD18F9EEE6F5A3E1C42051DF&fbclid=IwAR0N5rjJjskX3j7EBFdCNJnw47U_joo5ht28Rn1iMQ9bUErtOPOeMzCHj4s)
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/d70eacccf72040fba59c2ea3cbd6f568)
 - [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/e2b528b6ed5c4d0eb0cce52f21a9ac7a)
+- [Introduction to Cybersecurity](https://www.credly.com/badges/fe89c43a-fd1c-4fa8-b3bc-fc3bfada5653)
 
 ## Skill sets:
 
