@@ -2,7 +2,7 @@
 
 ## About me:
 
-I am Gabriel A. Tamayo, a passionate coder with strong database management skills. I love diving into complex problems and creating elegant solutions. My tech journey began with the BS Information Technology program, and I've been on an exciting learning path ever since.
+I am Gabriel A. Tamayo, a passionate coder with strong database management skills. I love web development, network management, and diving into complex problems and creating elegant solutions. My tech journey began with the BS Information Technology program, and I've been on an exciting learning path ever since.
 
 ## Education:
 
@@ -21,9 +21,9 @@ I am Gabriel A. Tamayo, a passionate coder with strong database management skill
 
 ## Skill sets:
 
-- **Programming**: Java, JavaScript, Python, Kotlin
+- **Programming**: Java, JavaScript, Python, Kotlin, PHP
 - **Databases**: IBM DB2 Cloud, MongoDB
-- **Tools**: Lucidchart, Jaspersoft Studio, Eclipse, HTML, Pentaho
+- **Tools**: Lucidchart, Jaspersoft Studio, Eclipse, Visual Studio Code, Pentaho, Intellij
 
 ## You may reach me at:
 
