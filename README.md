@@ -21,9 +21,9 @@ I am Gabriel A. Tamayo, a passionate coder with strong database management skill
 
 ## Skill sets:
 
-- **Programming**: Java, JavaScript, Python, Kotlin, PHP
+- **Programming**: Java, Python, Kotlin, PHP
 - **Databases**: IBM DB2 Cloud, MongoDB
-- **Tools**: Lucidchart, Jaspersoft Studio, Eclipse, Visual Studio Code, Pentaho, Intellij, Pycharm
+- **Tools**: Lucidchart, Jaspersoft Studio, Eclipse, Visual Studio Code, Pentaho, Intellij, Pycharm, Cisco Packet Tracer, Burp Suite
 
 ## You may reach me at:
 
