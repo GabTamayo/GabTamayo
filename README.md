@@ -18,6 +18,7 @@ I am Gabriel A. Tamayo, a passionate coder with strong database management skill
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/d70eacccf72040fba59c2ea3cbd6f568)
 - [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/e2b528b6ed5c4d0eb0cce52f21a9ac7a)
 - [Introduction to Cybersecurity](https://www.credly.com/badges/fe89c43a-fd1c-4fa8-b3bc-fc3bfada5653)
+- [Ethical Hacker](https://www.credly.com/badges/32d5952c-fb5f-40bd-8c88-4b1945680ebd/public_url)
 
 ## Skill sets:
 
