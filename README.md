@@ -5,8 +5,6 @@
 
 - 👯 I’m looking to collaborate on **Web Application Projects**
 
-- ⚡ Fun fact **I go to gym**
-
 ## 📖 Education:
 **Bachelor of Science in Information Technology**  
 [New Era University](https://www.neu.edu.ph)  
