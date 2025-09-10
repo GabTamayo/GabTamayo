@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gab Tamayo</h1>
-<h3 align="center">A full-stack web developer from the Philippines with a strong focus on creating clean, responsive, and high-performance applications.</h3>
+<h3 align="center">A full-stack web developer with a strong focus on creating clean, responsive, and high-performance applications.</h3>
 
 - 🌱 I’m currently learning **Laravel, Inertia & Vue**
 
