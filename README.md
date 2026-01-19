@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gab Tamayo</h1>
 <h3 align="center">A full-stack web developer with a strong focus on creating clean, responsive, and high-performance applications.</h3>
 
-- 🌱 I’m currently learning **Laravel, Inertia & Vue**
+- 🌱 I’m currently learning **Laravel, Inertia & Vue/React**
 
 - 👯 I’m looking to collaborate on **Web Application Projects**
 
