@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&pause=1000&color=000000&repeat=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Gab+Tamayo)](https://git.io/typing-svg)
-<h3 align="center">Software developer with a strong focus on system design creating scalable, high-performance, and responsive applications.</h3>
+<h3>Software developer with a strong focus on system design creating scalable, high-performance, and responsive applications.</h3>
 
 ## 📖 Education:
 **Bachelor of Science in Information Technology**  
