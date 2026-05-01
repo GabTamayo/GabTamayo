@@ -15,3 +15,4 @@ _2022 – Present (Expected Graduation: 2026)_
 - <a href="https://www.credly.com/badges/fe89c43a-fd1c-4fa8-b3bc-fc3bfada5653"> Introduction to Cybersecurity </a>
 - <a href="https://www.credly.com/badges/32d5952c-fb5f-40bd-8c88-4b1945680ebd/public_url"> Ethical Hacker </a>
 - <a href="https://edu.google.accredible.com/618d88ce-0b48-46e4-97b3-d2021fdf649f#acc.GouKtnOV"> Gemini Certified University </a>
+- <a href="https://www.credly.com/badges/d0c844ea-bf61-4eb8-b7f6-46ce6f14b4fa"> Linux Essentials </a>
