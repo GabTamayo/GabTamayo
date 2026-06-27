@@ -4,7 +4,7 @@
 ## 📖 Education:
 **Bachelor of Science in Information Technology**  
 [New Era University](https://www.neu.edu.ph)  
-_2022 – Present (Expected Graduation: 2026)_
+_2022 – 2026_
 
 ## 🏅 Certification:
 - <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=FBFD7570879635C29A5A0B7ABB500C567AE88948B398C9AE4DE4435F4EF5AA43"> Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate </a>
